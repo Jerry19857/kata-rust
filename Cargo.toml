@@ -1,0 +1,39 @@
+[package]
+name = "kata-rust"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+
+[[bin]]
+name = "string_to_array"
+path = "tdd/string_to_array/main.rs"
+
+[[bin]]
+name = "make_negative"
+path = "tdd/make_negative/main.rs"
+
+[[bin]]
+name = "points"
+path = "tdd/points/main.rs"
+
+[[bin]]
+name = "rps"
+path = "tdd/rps/main.rs"
+
+[[bin]]
+name = "minimum"
+path = "tdd/minimum/main.rs"
+
+[[bin]]
+name = "bmi"
+path = "tdd/bmi/main.rs"
+
+[[bin]]
+name = "number_to_string"
+path = "tdd/number_to_string/main.rs"
+
+[[bin]]
+name = "set_alarm"
+path = "tdd/set_alarm/main.rs"
