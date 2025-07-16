@@ -37,3 +37,7 @@ path = "tdd/number_to_string/main.rs"
 [[bin]]
 name = "set_alarm"
 path = "tdd/set_alarm/main.rs"
+
+[[bin]]
+name = "string_to_int"
+path = "tdd/string_to_int/main.rs"
