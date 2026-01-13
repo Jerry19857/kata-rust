@@ -41,3 +41,7 @@ path = "tdd/set_alarm/main.rs"
 [[bin]]
 name = "string_to_int"
 path = "tdd/string_to_int/main.rs"
+
+[[bin]]
+name = "remove_exclamation_marks"
+path = "tdd/remove_exclamation_marks/main.rs"

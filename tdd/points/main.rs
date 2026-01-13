@@ -15,6 +15,15 @@ fn points(games: &[String]) -> u32 {
     total_result
 }
 
+
+
+
+
+
+
+
+
+
 fn main() {
     let games = vec![
         "1:0".to_string(),
