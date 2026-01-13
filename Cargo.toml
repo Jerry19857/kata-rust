@@ -45,3 +45,7 @@ path = "tdd/string_to_int/main.rs"
 [[bin]]
 name = "remove_exclamation_marks"
 path = "tdd/remove_exclamation_marks/main.rs"
+
+[[bin]]
+name = "are_you_play_banjo"
+path = "tdd/banjo/main.rs"
