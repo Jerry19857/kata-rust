@@ -49,3 +49,7 @@ path = "tdd/remove_exclamation_marks/main.rs"
 [[bin]]
 name = "are_you_play_banjo"
 path = "tdd/banjo/main.rs"
+
+[[bin]]
+name = "digitize"
+path = "tdd/digitize/main.rs"
