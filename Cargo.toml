@@ -61,3 +61,7 @@ path = "tdd/nb_year/main.rs"
 [[bin]]
 name = 'remove_string_space'
 path = 'tdd/remove_string_space/main.rs'
+
+[[bin]]
+name = 'simple_multiplication'
+path = "tdd/simple_multiplication/main.rs"
