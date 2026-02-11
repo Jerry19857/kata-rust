@@ -53,3 +53,11 @@ path = "tdd/banjo/main.rs"
 [[bin]]
 name = "digitize"
 path = "tdd/digitize/main.rs"
+
+[[bin]]
+name = "nb_year"
+path = "tdd/nb_year/main.rs"
+
+[[bin]]
+name = 'remove_string_space'
+path = 'tdd/remove_string_space/main.rs'
