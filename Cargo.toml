@@ -65,3 +65,7 @@ path = 'tdd/remove_string_space/main.rs'
 [[bin]]
 name = 'simple_multiplication'
 path = "tdd/simple_multiplication/main.rs"
+
+[[bin]]
+name = "mini_max_sum"
+path = "tdd/mini_max_sum/main.rs"
